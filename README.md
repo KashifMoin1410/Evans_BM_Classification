@@ -7,11 +7,11 @@ Classify merchant transaction descriptions into **Evans**, **B&M**, or **other**
 ```
 ├── Evans_BM_Merchant_Classification.ipynb   # Main analysis and models
 ├── data/
-│   ├── train_set.csv                        # Training set (desc, MCC, tag)
-│   └── test_set.csv                         # Held-out test set
+│   ├── train_set.csv                        # Training Data
+│   └── test_set.csv                         # Unseen Test Data
 ├── docs/
-│   └── InterviewAssignment.docx             # Original assignment brief
-├── requirements.txt                         # Python dependencies (see below)
+│   └── InterviewAssignment.docx             # Original Assignment Brief
+├── requirements.txt                         # Python dependencies
 └── README.md
 ```
 
